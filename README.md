@@ -13,6 +13,8 @@
 
 ### Requirements
 - Python 2.7, 3.5 or above
+- numpy
+  - python -m pip install numpy
 - mpi4py
   - python -m pip install mpi4py
 
